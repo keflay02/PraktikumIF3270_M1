@@ -1,0 +1,24 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "menggunakan one-hot encoding atau label encoding. \n",
+    "One-hot encoding digunakan ketika tidak ada relasi urutan antar nilai, \n",
+    "sementara label encoding digunakan ketika ada relasi urutan. \n",
+    "Untuk data teks,bisa menggunakan teknik seperti TF-IDF atau word embeddings \n",
+    "seperti Word2Vec atau GloVe."
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

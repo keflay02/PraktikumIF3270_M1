@@ -1,0 +1,23 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Duplicate Value : Menggunakan drop_duplicates().\n",
+    "Missing Value   : Menggunakan dropna() atau pengisian nilai.\n",
+    "Outlier         : Menggunakan deteksi z-score dan penghapusan outlier.\n",
+    "Balance of Data : Menggunakan teknik oversampling dengan SMOTE."
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

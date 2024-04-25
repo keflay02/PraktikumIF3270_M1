@@ -1,0 +1,32 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Tujuan Eksperimen:\n",
+    "Meningkatkan performa model klasifikasi pada dataset yang diberikan.\n",
+    "\n",
+    "Variabel Dependan dan Independen:\n",
+    "Variabel Dependan: Target/label klasifikasi.\n",
+    "Variabel Independen: Fitur-fitur yang digunakan untuk melakukan prediksi.\n",
+    "Strategi Eksperimen:\n",
+    "Menggunakan algoritma-algoritma klasifikasi yang berbeda (misalnya Decision Trees, Random Forest, \n",
+    "SVM) dan menyesuaikan parameter-parameter model untuk meningkatkan performa.\n",
+    "\n",
+    "Skema Validasi:\n",
+    "Menggunakan skema validasi silang (cross-validation) untuk menghindari overfitting dan mendapatkan\n",
+    "estimasi yang lebih baik tentang performa model. Misalnya, menggunakan k-fold cross-validation dengan k=5 atau k=10."
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
